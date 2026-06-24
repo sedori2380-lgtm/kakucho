@@ -1,0 +1,8 @@
+node_modules/
+data/
+server.log
+server_out.txt
+server_err.txt
+*.db
+*.db-shm
+*.db-wal
