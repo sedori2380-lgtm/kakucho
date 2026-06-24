@@ -1,0 +1,8 @@
+{
+  "name": "kaikei",
+  "version": "1.0.0",
+  "description": "せどり向け確定申告・帳簿補助ツール",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
